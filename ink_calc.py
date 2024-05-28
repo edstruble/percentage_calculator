@@ -2,7 +2,6 @@ import numpy as np
 from PIL import Image
 import streamlit as st
 
-
 def calculate_use_percent(uploaded_file):
     img = Image.open(uploaded_file).convert("L")
     img_data = np.array(img)
