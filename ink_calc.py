@@ -24,6 +24,7 @@ def main():
         calculate_use_percent(uploaded_file)
         st.divider()
         st.image(uploaded_file, caption="Uploaded Image", use_column_width=True)
+        st.divider()
 
 
 if __name__ == "__main__":
