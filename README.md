@@ -1,3 +1,7 @@
+access the deployed app on Streamlit
+
+https://percentagecalculator-cdxzmnu4vgupd9q7w4rsa9.streamlit.app/
+
 This is a basic "ink" calculator for the graphic arts industry. 
 Unlike other ink caclulators, this calculator functions to tell the user the percentage of the sheet that will have ink on it
 
